@@ -1,1 +1,1 @@
-# GBRIT---AI-Chatbot-service-RESTful-
+# GBRIT-AI-Chatbot-service-(RESTful)
